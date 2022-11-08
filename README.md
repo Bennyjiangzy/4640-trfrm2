@@ -1,4 +1,4 @@
-# 4640-trfrm1
+# 4640-trfrm2
 This is the tutorial about how to use terraform and ansible to deploy resources in Digital Ocean
 
 ## Install Terraform 
